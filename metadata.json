@@ -1,0 +1,6 @@
+{
+  "name": "DGMS SECL Korba Mine Subsidence Telemetry Portal",
+  "description": "Government institutional sensor monitoring dashboard for underground coal mine subsidence detection over Korba Coalfield using Wi-SUN Mesh Relay (NLN0721, IN865 MHz).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
